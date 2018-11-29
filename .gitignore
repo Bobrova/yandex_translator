@@ -1,4 +1,5 @@
-*.gem/.bundle/
+*.gem
+/.bundle/
 /.yardoc
 /_yardoc/
 /coverage/
