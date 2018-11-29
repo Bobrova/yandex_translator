@@ -1,5 +1,5 @@
 require "yandex_translator/version"
-require 'translator/translator'
+require 'yandex_translator/translator'
 
 module YandexTranslator
 
