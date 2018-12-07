@@ -3,10 +3,9 @@ module YandexTranslator
     class ApiErrors < StandardError
 
       attr_reader :response
-
       def initialize(response)
-          @response = response
-          super(response)
+        @response = response
+        super(response)
       end
     end
 
